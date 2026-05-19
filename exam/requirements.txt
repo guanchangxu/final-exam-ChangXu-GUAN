@@ -1,0 +1,4 @@
+kafka-python-ng==2.2.3
+pyspark==3.5.3
+flask==3.0.0
+pandas==2.2.0
